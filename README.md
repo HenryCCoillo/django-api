@@ -1,6 +1,6 @@
 # Proyecto Django API de Silabuz Unidad 5
 
-[![N|Solid](https://www.django-rest-framework.org/img/logo.png)]()
+[![N|Solid](https://www.django-rest-framework.org/img/logo.png)](https://django-api-private-production.up.railway.app/)
 
 ## Descripcíon
 - El Proyecto de Django API tiene un Register y Login.
@@ -11,8 +11,8 @@
 - La Lista de Pago de Servicio tiene filtro fecha de pago y fecha de expiración.
 - EL usuario tendra acceso a 3 request a la vista de Pago del Servicio, y 7 request en Servicios y Expiracion de Pago.
 - Para visualizar la Documentacion esta en http://127.0.0.1:8000/swagger/ o http://127.0.0.1:8000/redoc/ 
-- Para poder Registrarse esta en http://127.0.0.1:8000/signup/
-- Para poder Logearte esta en http://127.0.0.1:8000/login/
+- Para poder Registrarse esta en http://127.0.0.1:8000/users/signup/
+- Para poder Logearte esta en http://127.0.0.1:8000/users/login/
 
 ## Requisitos
 - Python 3.10
